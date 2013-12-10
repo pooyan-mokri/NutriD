@@ -71,7 +71,6 @@ body{
 	clear: none;
 	float: none;
 }
-#home {
 	background:url(../images/background-small.jpg) no-repeat;
 	width:100%;
 	margin:0;
@@ -247,7 +246,6 @@ margin-left: 0;
 	
 	
 }
-#home {
 	
 	position: relative;
 	
@@ -532,7 +530,6 @@ ul .dropdown {
 
 
 @media screen and (orientation:portrait) and (min-width: 481px){
-	#home{
 		background:url(../images/background-tablet-h.jpg) no-repeat;
 		background-size:cover;
 	-moz-background-size:cover;
@@ -546,7 +543,6 @@ ul .dropdown {
 }
 
 @media screen and (orientation:portrait) and (min-width: 801px) and (max-width: 980px){
-	#home{
 	background:url(../images/background-tablet-h.jpg) no-repeat;
 	background-size:cover;
 	-moz-background-size:cover;
